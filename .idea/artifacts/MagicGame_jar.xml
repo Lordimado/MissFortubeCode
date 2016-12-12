@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MagicGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MagicGame_jar</output-path>
+    <root id="archive" name="MagicGame.jar">
+      <element id="module-output" name="MagicGame" />
+    </root>
+  </artifact>
+</component>
